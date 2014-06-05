@@ -4,4 +4,9 @@ Resources
  1. iBook : The Swift programming Language
  2. WWDC2014 Session 406: Ingegrating Swift with Objective-C
  3. ? : Using Swift with cocoa & Objective-C
- 
+
+Point
+ Type free, simple write, no header file
+ Cocoa/Cocoa Touchを直接利用可能.
+ LLVMによるコンパイル
+ ARC対応
