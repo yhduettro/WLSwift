@@ -2,8 +2,10 @@ How to start iOS Swift programming.
 
 Resources
  1. iBook : The Swift programming Language
- 2. WWDC2014 Session 406: Ingegrating Swift with Objective-C
- 3. ? : Using Swift with cocoa & Objective-C
+ 2. WWDC2014 Session 402:  Introduction to Swift
+ 3. WWDC2014 Session 406: Ingegrating Swift with Objective-C
+ 4. WWDC2014 Session 407: Swift Interoperability In Depth
+ 5. ? : Using Swift with cocoa & Objective-C
 
 Point
  Type free, simple write, no header file
