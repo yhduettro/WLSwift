@@ -7,7 +7,8 @@ Resources
  4. WWDC2014 Session 407: Swift Interoperability In Depth
  4. WWDC2014 Session 4XX: Intermediate Swift
  4. WWDC2014 Session 4XX: Advanced Swift
- 5. ? : Using Swift with cocoa & Objective-C
+ 5. https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/BuildingCocoaApps/
+ 6. https://developer.apple.com/swift/
 
 Point
  Type free, simple write, no header file
